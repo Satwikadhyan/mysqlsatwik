@@ -1,0 +1,1 @@
+create table f1(customername varchar(30) not null,phone varchar(15),address1 varchar(50));create table f2(spname varchar(30) not null,phone varchar(15),address1 varchar(50));
